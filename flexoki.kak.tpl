@@ -1,4 +1,3 @@
-eval -client client0 %{
 # For code
 face global value     rgb:{{cy}};
 face global type      rgb:{{or}};
@@ -52,4 +51,3 @@ face global Whitespace         rgb:{{tx-2}}+f;
 face global BufferPadding      rgb:{{ui-3}};
 face global WrapMarker         rgb:{{tx-2}}+f;
 face global BufferPadding      rgb:{{ui-3}},{{bg}};
-}
